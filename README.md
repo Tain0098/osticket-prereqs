@@ -36,6 +36,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Install / Enable IIS in Windows WITH CGI
+  
+Open the Control Panel:
+
+Press Windows + R, type control, and hit Enter. This will open the Control Panel.
+Navigate to Programs and Features:
+
+In the Control Panel, go to Programs > Turn Windows features on or off under the Programs and Features section.
+Enable IIS:
+
+In the Windows Features dialog that appears, scroll down and locate Internet Information Services.
+
+Expand the Internet Information Services node to see more detailed features.
+
+Ensure the following options are selected:
+
+Web Management Tools (including IIS Management Console)
+
+World Wide Web Services > Application Development Features:
+
+Check CGI.
+
+Optionally, you can enable other features like ASP, .NET Extensibility, or ISAPI Extensions depending on your needs.
+World Wide Web Services > Common HTTP Features (e.g., Static Content, Default Document, Directory Browsing).
+Install IIS:
+
+Click OK to start the installation process.
+Windows will now install IIS with the selected features, including CGI. This may take a few minutes depending on your system.
 
 
 
