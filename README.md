@@ -147,6 +147,57 @@ This is IMPORTANT, type(osTicket) as it is written
 Finish with reloading IIS (Open IIS, Stop and Start the server)
 
 
+*
+
+<p>
+<img src="https://i.imgur.com/9u9cyu7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+To get to the osTicket site
+
+Open IIS and expand the service on the top left
+
+To sites -> Default -> click osTicket and on the top right click “Browse *:80”
+
+The site should look like the picture above, if not something went wrong and you might have to start all over again
+
+Note that some extensions are not enabled
+
+Go back to IIS, sites -> Default -> osTicket
+
+Double-click PHP Manager
+
+Click “Enable or disable an extension”
+
+Enable: php_imap.dll
+
+Enable: php_intl.dll
+
+Enable: php_opcache.dll
+
+Refresh the osTicket site in your browser, observe the changes
+
+*
+
+IMPORTANT RENAME Again
+
+From: Windows(C:) to\inetpub\wwwroot\osTicket\include\ find(ost-sampleconfig.php) file
+
+Reame (ost-sampleconfig.php) to (ost-config.php)
+
+like before rename(ost-config.php) file as it written
+
+
+
+
+
+
+
+
+
+
+
 
 
 
