@@ -32,11 +32,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/Dc4BnRM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BXwMbsJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install / Enable IIS in Windows WITH CGI
-  
+
 Open the Control Panel:
 
 Press Windows + R, type control, and hit Enter. This will open the Control Panel.
