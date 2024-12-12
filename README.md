@@ -89,7 +89,7 @@ Create the directory C:\PHP
 
 Go into Windows (C:) and Create a new folder(PHP)
 
-Unzip PHP 7.3.8 and move the folder (php-7.3.8-nts-Win32-VC15-x86.zip) to (PHP)
+Unzip PHP 7.3.8(php-7.3.8-nts-Win32-VC15-x86.zip) to the folder(PHP)
 
 Next, install VC_redist.x86.exe
 
