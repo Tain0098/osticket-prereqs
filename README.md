@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 6 HeidiSQL
 - item 7 PHP 7.3.8
 
-  Download all item above the osTicket-Installation-Files.zip
+  Download all items above: https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0
 
 <h2>Installation Steps</h2>
 
