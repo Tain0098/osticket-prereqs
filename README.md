@@ -120,5 +120,41 @@ Username: Please note it down
 Password: Please note it down
 
 
+*
+
+<p>
+<img src="https://i.imgur.com/UTqTPmd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Type IIS on the Windows Search bar and open Internet Information Services(IIS) Manager as an Admin
+
+Click on PHP Manager, then Register new PHP version
+
+Now, browse the PHP folder we created on Windows(C:) and choose php-cgi.exe
+
+Next, reload IIS (Open IIS, Stop and Start the server)
+
+
+Unzip osTicket-v1.15.8.zip
+
+Copy the “upload” folder and go into Windows(C:) then (inetpub) to (wwwroot) folder and paste the "upload" folder there
+
+Rename the "upload" folder you paste to (osTicket)
+
+This is IMPORTANT, type(osTicket) as it is written
+
+Finish with reloading IIS (Open IIS, Stop and Start the server)
+
+
+
+
+
+
+
+
+
+
+
 
 
