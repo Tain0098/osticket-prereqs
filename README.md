@@ -65,6 +65,17 @@ Click OK to start the installation process.
 Windows will now install IIS with the selected features, including CGI. This may take a few minutes depending on your system.
 
 
+*
+
+
+For now, install.
+
+-PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+-Rewrite Module (rewrite_amd64_en-US.msi)
+
+
+
 
 
 
