@@ -239,6 +239,11 @@ Click “Install Now!"
 
 Congratulations, hopefully, it is installed with no errors!
 
+<p>
+<img src="https://i.imgur.com/PIt5cvg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
 End Users osTicket URL:
