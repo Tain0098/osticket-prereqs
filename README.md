@@ -100,7 +100,7 @@ Next, install VC_redist.x86.exe
 
 
 <p>
-<img src="https://i.imgur.com/yyvZull.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u4MEAgx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
