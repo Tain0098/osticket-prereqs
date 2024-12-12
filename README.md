@@ -43,6 +43,7 @@ Press Windows + R, type control, and hit Enter. This will open the Control Panel
 Navigate to Programs and Features:
 
 In the Control Panel, go to Programs > Turn Windows features on or off under the Programs and Features section.
+
 Enable IIS:
 
 In the Windows Features dialog that appears, scroll down and locate Internet Information Services.
