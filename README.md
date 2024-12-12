@@ -188,6 +188,76 @@ Reame (ost-sampleconfig.php) to (ost-config.php)
 
 like before rename(ost-config.php) file as it written
 
+Now to Assign Permissions on (ost-config.php)
+
+Right-click on (ost-config.php)
+
+Property-Security
+
+Disable inheritance -> Remove All
+
+Next, click on Add then Select a Principle 
+
+On the empty box, type what you need to add and click Check Name to see if the system has it
+
+*
+
+<p>
+<img src="https://i.imgur.com/NVd6LyW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Continue Setting up osTicket in the browser (click Continue)
+
+Name Helpdesk
+
+Default email (receives email from customers)
+
+Type whatever you want on Admin user and Note it down 
+
+Pause and install HeidiSQL.
+
+Open Heidi SQL and click New on the bottom 
+
+The user and Password are the same ones from MySQL 5.5.62 when you set it up, click Open when down.
+
+Right-click on Unnamed on the new tap that opens, click Create new> database
+
+Type the name as it is written (osTicket) then Ok
+
+Back to the osTicket site 
+
+MySQL Database: osTicket
+
+MySQL Username: same as before
+
+MySQL Password: same as before
+
+Click “Install Now!"
+
+Congratulations, hopefully, it is installed with no errors!
+
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+End Users osTicket URL:
+http://localhost/osTicket/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
