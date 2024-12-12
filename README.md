@@ -28,6 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4 mysql-5.5.62-win32.msi
 - Item 5 osTicket v1.15.8
 - Item 6 HeidiSQL
+- item 7 PHP 7.3.8
 
 <h2>Installation Steps</h2>
 
@@ -79,7 +80,13 @@ For now, install.
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yyvZull.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
+
+Create the directory C:\PHP
+
+Go into Windows (C:) and Create a new folder(PHP)
+
+Unzip PHP 7.3.8 and move the folder (php-7.3.8-nts-Win32-VC15-x86.zip) to (PHP)
